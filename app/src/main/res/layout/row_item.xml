@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="3dp"
+    android:layout_height="wrap_content">
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imageMovie"
+        android:layout_width="110dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="4dp"
+        android:background="@drawable/image_back"
+        android:padding="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ImageContrastCheck">
+
+    </androidx.appcompat.widget.AppCompatImageView>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvName"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:hint="@string/movie_name"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textColorHint="#616161"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.191"
+        app:layout_constraintStart_toEndOf="@+id/imageMovie"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatCheckBox
+        android:id="@+id/likeButton"
+        style="?android:attr/starStyle"
+        android:layout_width="55dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="16dp"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/tvImdbID"
+        app:layout_constraintTop_toBottomOf="@+id/tvName">
+
+    </androidx.appcompat.widget.AppCompatCheckBox>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvImdbID"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:drawableStart="@drawable/heart"
+        android:hint="@string/imdbid"
+        android:textColor="@color/black"
+        android:textColorHint="#DD2C00"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/imageMovie"
+        app:layout_constraintTop_toBottomOf="@+id/tvName">
+
+    </androidx.appcompat.widget.AppCompatTextView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

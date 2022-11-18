@@ -1,0 +1,52 @@
+{
+  "Search":[{
+    "imdbID":"8,5",
+    "Title":"Batman",
+    "Year":"1989",
+    "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_.jpg"
+  },
+    {
+      "imdbID":"6,9",
+      "Title":"The Dark Knight",
+      "Year":"2008","Poster":"https://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "imdbID":"7,0",
+      "Title":"Batman v Superman: Dawn of Justice",
+      "Year":"2016",
+      "Poster":"https://ia.media-imdb.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "imdbID":"7,6",
+      "Title":"The Dark Knight Rises",
+      "Year":"2012","Poster":"https://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "imdbID":"7,4",
+      "Title":"Batman Begins",
+      "Year":"2005",
+      "Poster":"https://upload.wikimedia.org/wikipedia/tr/6/6d/BatmanBegins.jpg"
+    },
+    {
+      "imdbID":"8,4",
+      "Title":"The LEGO Batman Movie",
+      "Year":"2017",
+      "Poster":"https://ia.media-imdb.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "imdbID":"6,2",
+      "Title":"Batman Forever",
+      "Year":"1995",
+      "Poster":"https://upload.wikimedia.org/wikipedia/tr/3/35/Batman_forever_ver7_film_posteri.jpg"
+    },
+    {
+      "imdbID":"8,8",
+      "Title":"Batman & Robin",
+      "Year":"1997",
+      "Poster":"https://ia.media-imdb.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "imdbID":"7,6",
+      "Title":"Batman Returns",
+      "Year":"1992",
+      "Poster":"https://ia.media-imdb.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"}]}

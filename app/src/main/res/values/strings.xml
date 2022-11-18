@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exam3New</string>
+    <string name="year">year</string>
+    <string name="movie_name">movie_name</string>
+    <string name="imdbid">imdbid</string>
+</resources>
